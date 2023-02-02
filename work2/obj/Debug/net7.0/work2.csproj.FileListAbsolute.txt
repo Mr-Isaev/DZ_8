@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\DZ_8\work2\bin\Debug\net7.0\work2.exe
+C:\Users\1\Desktop\DZ_8\work2\bin\Debug\net7.0\work2.deps.json
+C:\Users\1\Desktop\DZ_8\work2\bin\Debug\net7.0\work2.runtimeconfig.json
+C:\Users\1\Desktop\DZ_8\work2\bin\Debug\net7.0\work2.dll
+C:\Users\1\Desktop\DZ_8\work2\bin\Debug\net7.0\work2.pdb
+C:\Users\1\Desktop\DZ_8\work2\obj\Debug\net7.0\work2.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\DZ_8\work2\obj\Debug\net7.0\work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\DZ_8\work2\obj\Debug\net7.0\work2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\DZ_8\work2\obj\Debug\net7.0\work2.AssemblyInfo.cs
+C:\Users\1\Desktop\DZ_8\work2\obj\Debug\net7.0\work2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\DZ_8\work2\obj\Debug\net7.0\work2.dll
+C:\Users\1\Desktop\DZ_8\work2\obj\Debug\net7.0\refint\work2.dll
+C:\Users\1\Desktop\DZ_8\work2\obj\Debug\net7.0\work2.pdb
+C:\Users\1\Desktop\DZ_8\work2\obj\Debug\net7.0\work2.genruntimeconfig.cache
+C:\Users\1\Desktop\DZ_8\work2\obj\Debug\net7.0\ref\work2.dll

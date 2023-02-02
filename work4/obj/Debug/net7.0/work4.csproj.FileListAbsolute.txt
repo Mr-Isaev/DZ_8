@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\DZ_8\work4\bin\Debug\net7.0\work4.exe
+C:\Users\1\Desktop\DZ_8\work4\bin\Debug\net7.0\work4.deps.json
+C:\Users\1\Desktop\DZ_8\work4\bin\Debug\net7.0\work4.runtimeconfig.json
+C:\Users\1\Desktop\DZ_8\work4\bin\Debug\net7.0\work4.dll
+C:\Users\1\Desktop\DZ_8\work4\bin\Debug\net7.0\work4.pdb
+C:\Users\1\Desktop\DZ_8\work4\obj\Debug\net7.0\work4.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\DZ_8\work4\obj\Debug\net7.0\work4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\DZ_8\work4\obj\Debug\net7.0\work4.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\DZ_8\work4\obj\Debug\net7.0\work4.AssemblyInfo.cs
+C:\Users\1\Desktop\DZ_8\work4\obj\Debug\net7.0\work4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\DZ_8\work4\obj\Debug\net7.0\work4.dll
+C:\Users\1\Desktop\DZ_8\work4\obj\Debug\net7.0\refint\work4.dll
+C:\Users\1\Desktop\DZ_8\work4\obj\Debug\net7.0\work4.pdb
+C:\Users\1\Desktop\DZ_8\work4\obj\Debug\net7.0\work4.genruntimeconfig.cache
+C:\Users\1\Desktop\DZ_8\work4\obj\Debug\net7.0\ref\work4.dll
